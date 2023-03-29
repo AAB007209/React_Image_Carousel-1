@@ -7,5 +7,5 @@ The Command to create a vite light weight package for React project :
 ```yarn create vite```
 
 For more information you can visit the documentation of Vite.js : 
-[Vite.js Documentation] (https://vitejs.dev/guide/)
+[Vite.js Documentation](https://vitejs.dev/guide/)
 
